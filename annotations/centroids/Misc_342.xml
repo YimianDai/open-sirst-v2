@@ -1,0 +1,15 @@
+<annotation>
+  <filename>Misc_342</filename>
+  <size>
+    <width>296</width>
+    <height>199</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>119.66490299823636</yc>
+      <xc>155.90534979423873</xc>
+    </centroid>
+  </object>
+</annotation>

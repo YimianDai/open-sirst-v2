@@ -1,0 +1,35 @@
+<annotation>
+  <filename>Misc_290</filename>
+  <size>
+    <width>237</width>
+    <height>237</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>168</xmin>
+      <ymin>28</ymin>
+      <xmax>175</xmax>
+      <ymax>33</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>96</xmin>
+      <ymin>106</ymin>
+      <xmax>103</xmax>
+      <ymax>112</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>111</xmin>
+      <ymin>126</ymin>
+      <xmax>118</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+</annotation>

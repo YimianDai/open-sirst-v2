@@ -1,0 +1,36 @@
+<annotation>
+  <filename>Misc_223</filename>
+  <size>
+    <width>308</width>
+    <height>201</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>47.716472617507556</yc>
+      <xc>221.88055196205264</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>107.85989110707803</yc>
+      <xc>211.08094373865703</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>108.05939968404425</yc>
+      <xc>216.70805687203787</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>169.51851851851853</yc>
+      <xc>198.96408529741862</xc>
+    </centroid>
+  </object>
+</annotation>

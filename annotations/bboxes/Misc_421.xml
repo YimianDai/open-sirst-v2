@@ -1,0 +1,35 @@
+<annotation>
+  <filename>Misc_421</filename>
+  <size>
+    <width>334</width>
+    <height>225</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>119</xmin>
+      <ymin>96</ymin>
+      <xmax>122</xmax>
+      <ymax>99</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>198</ymin>
+      <xmax>84</xmax>
+      <ymax>202</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>128</xmin>
+      <ymin>210</ymin>
+      <xmax>132</xmax>
+      <ymax>214</ymax>
+    </bndbox>
+  </object>
+</annotation>

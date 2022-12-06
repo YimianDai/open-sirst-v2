@@ -1,0 +1,29 @@
+<annotation>
+  <filename>Misc_424</filename>
+  <size>
+    <width>252</width>
+    <height>181</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>41.04237770193402</yc>
+      <xc>185.50568828213883</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>44.343488760913985</yc>
+      <xc>178.37191157347203</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>177.8651829112305</yc>
+      <xc>241.78025070350475</xc>
+    </centroid>
+  </object>
+</annotation>

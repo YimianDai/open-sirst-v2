@@ -1,0 +1,17 @@
+<annotation>
+  <filename>Misc_2</filename>
+  <size>
+    <width>348</width>
+    <height>270</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>233</xmin>
+      <ymin>133</ymin>
+      <xmax>256</xmax>
+      <ymax>145</ymax>
+    </bndbox>
+  </object>
+</annotation>

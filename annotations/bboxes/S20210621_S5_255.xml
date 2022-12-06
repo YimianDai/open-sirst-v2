@@ -1,0 +1,17 @@
+<annotation>
+  <filename>S20210621_S5_255</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>323</xmin>
+      <ymin>285</ymin>
+      <xmax>327</xmax>
+      <ymax>290</ymax>
+    </bndbox>
+  </object>
+</annotation>

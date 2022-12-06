@@ -1,0 +1,29 @@
+<annotation>
+  <filename>Misc_313</filename>
+  <size>
+    <width>324</width>
+    <height>226</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>54.27530058399175</yc>
+      <xc>257.458055650979</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>53.861048020765736</yc>
+      <xc>274.31164828033747</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>139.32510926265334</yc>
+      <xc>96.8695897363598</xc>
+    </centroid>
+  </object>
+</annotation>

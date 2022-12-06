@@ -1,0 +1,22 @@
+<annotation>
+    <folder>targets</folder>
+    <filename>S20210422_S7_179.png</filename>
+    <size>
+        <width>640</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Target</name>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+        <bndbox>
+            <xmin>176</xmin>
+            <ymin>151</ymin>
+            <xmax>614</xmax>
+            <ymax>425</ymax>
+        </bndbox>
+    </object>
+</annotation>

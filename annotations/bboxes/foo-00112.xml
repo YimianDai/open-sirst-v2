@@ -1,0 +1,17 @@
+<annotation>
+  <filename>foo-00112</filename>
+  <size>
+    <width>1280</width>
+    <height>1024</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>421</xmin>
+      <ymin>689</ymin>
+      <xmax>433</xmax>
+      <ymax>701</ymax>
+    </bndbox>
+  </object>
+</annotation>

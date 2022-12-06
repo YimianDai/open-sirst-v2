@@ -1,0 +1,17 @@
+<annotation>
+  <filename>S20210621_S4_88</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>366</xmin>
+      <ymin>282</ymin>
+      <xmax>370</xmax>
+      <ymax>286</ymax>
+    </bndbox>
+  </object>
+</annotation>

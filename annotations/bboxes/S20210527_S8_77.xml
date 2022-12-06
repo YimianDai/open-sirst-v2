@@ -1,0 +1,26 @@
+<annotation>
+  <filename>S20210527_S8_77</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>281</xmin>
+      <ymin>374</ymin>
+      <xmax>285</xmax>
+      <ymax>377</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>430</xmin>
+      <ymin>384</ymin>
+      <xmax>435</xmax>
+      <ymax>388</ymax>
+    </bndbox>
+  </object>
+</annotation>

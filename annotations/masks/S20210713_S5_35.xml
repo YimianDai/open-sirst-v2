@@ -1,0 +1,22 @@
+<annotation>
+    <folder>targets</folder>
+    <filename>S20210713_S5_35.png</filename>
+    <size>
+        <width>640</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Target</name>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+        <bndbox>
+            <xmin>577</xmin>
+            <ymin>330</ymin>
+            <xmax>580</xmax>
+            <ymax>333</ymax>
+        </bndbox>
+    </object>
+</annotation>

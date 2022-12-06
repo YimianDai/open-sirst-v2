@@ -1,0 +1,17 @@
+<annotation>
+  <filename>S20210713_S2_102</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>386</xmin>
+      <ymin>188</ymin>
+      <xmax>396</xmax>
+      <ymax>194</ymax>
+    </bndbox>
+  </object>
+</annotation>

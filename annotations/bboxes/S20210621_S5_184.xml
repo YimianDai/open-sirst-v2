@@ -1,0 +1,17 @@
+<annotation>
+  <filename>S20210621_S5_184</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>382</xmin>
+      <ymin>119</ymin>
+      <xmax>386</xmax>
+      <ymax>124</ymax>
+    </bndbox>
+  </object>
+</annotation>

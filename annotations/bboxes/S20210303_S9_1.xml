@@ -1,0 +1,17 @@
+<annotation>
+  <filename>S20210303_S9_1</filename>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>416</xmin>
+      <ymin>622</ymin>
+      <xmax>425</xmax>
+      <ymax>630</ymax>
+    </bndbox>
+  </object>
+</annotation>

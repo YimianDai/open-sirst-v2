@@ -1,0 +1,29 @@
+<annotation>
+  <filename>Misc_277</filename>
+  <size>
+    <width>253</width>
+    <height>171</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>45.26337150311639</yc>
+      <xc>244.4921003043919</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>89.3495125913891</yc>
+      <xc>162.877538586515</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>96.23601694915254</yc>
+      <xc>55.663135593220346</xc>
+    </centroid>
+  </object>
+</annotation>

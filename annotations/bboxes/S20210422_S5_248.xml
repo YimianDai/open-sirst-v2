@@ -1,0 +1,17 @@
+<annotation>
+  <filename>S20210422_S5_248</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>368</xmin>
+      <ymin>367</ymin>
+      <xmax>382</xmax>
+      <ymax>372</ymax>
+    </bndbox>
+  </object>
+</annotation>

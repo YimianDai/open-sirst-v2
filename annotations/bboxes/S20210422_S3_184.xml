@@ -1,0 +1,35 @@
+<annotation>
+  <filename>S20210422_S3_184</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>532</xmin>
+      <ymin>234</ymin>
+      <xmax>537</xmax>
+      <ymax>239</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>198</xmin>
+      <ymin>415</ymin>
+      <xmax>202</xmax>
+      <ymax>418</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>36</xmin>
+      <ymin>491</ymin>
+      <xmax>41</xmax>
+      <ymax>495</ymax>
+    </bndbox>
+  </object>
+</annotation>

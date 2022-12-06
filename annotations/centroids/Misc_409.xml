@@ -1,0 +1,15 @@
+<annotation>
+  <filename>Misc_409</filename>
+  <size>
+    <width>277</width>
+    <height>242</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>150.86449115044246</yc>
+      <xc>57.96294247787609</xc>
+    </centroid>
+  </object>
+</annotation>

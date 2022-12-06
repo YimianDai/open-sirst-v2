@@ -1,0 +1,22 @@
+<annotation>
+    <folder>targets</folder>
+    <filename>S20210713_S3_3.png</filename>
+    <size>
+        <width>640</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Target</name>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+        <bndbox>
+            <xmin>293</xmin>
+            <ymin>249</ymin>
+            <xmax>306</xmax>
+            <ymax>257</ymax>
+        </bndbox>
+    </object>
+</annotation>

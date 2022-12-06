@@ -1,0 +1,17 @@
+<annotation>
+  <filename>S20210713_S3_3</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>293</xmin>
+      <ymin>249</ymin>
+      <xmax>307</xmax>
+      <ymax>258</ymax>
+    </bndbox>
+  </object>
+</annotation>

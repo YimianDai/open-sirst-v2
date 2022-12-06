@@ -1,0 +1,35 @@
+<annotation>
+  <filename>S20210527_S4_146</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>329</xmin>
+      <ymin>66</ymin>
+      <xmax>336</xmax>
+      <ymax>70</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>305</xmin>
+      <ymin>181</ymin>
+      <xmax>313</xmax>
+      <ymax>187</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>483</xmin>
+      <ymin>508</ymin>
+      <xmax>488</xmax>
+      <ymax>512</ymax>
+    </bndbox>
+  </object>
+</annotation>

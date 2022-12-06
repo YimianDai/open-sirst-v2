@@ -1,0 +1,16 @@
+<annotation>
+    <folder>backgrounds</folder>
+    <filename>iraytek-455.png</filename>
+    <size>
+        <width>1280</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Target</name>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+    </object>
+</annotation>

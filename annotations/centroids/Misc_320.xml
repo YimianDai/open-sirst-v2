@@ -1,0 +1,29 @@
+<annotation>
+  <filename>Misc_320</filename>
+  <size>
+    <width>266</width>
+    <height>166</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>40.90425932906143</yc>
+      <xc>88.21221258952129</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>84.81962702537453</yc>
+      <xc>204.57077346377258</xc>
+    </centroid>
+  </object>
+  <object>
+    <name>Target</name>
+    <centroid>
+      <yc>92.1324459234609</yc>
+      <xc>204.56372712146427</xc>
+    </centroid>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <filename>S20210527_S4_201</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>321</xmin>
+      <ymin>207</ymin>
+      <xmax>325</xmax>
+      <ymax>210</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>296</xmin>
+      <ymin>219</ymin>
+      <xmax>301</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+</annotation>

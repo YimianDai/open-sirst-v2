@@ -1,0 +1,35 @@
+<annotation>
+  <filename>Misc_208</filename>
+  <size>
+    <width>334</width>
+    <height>225</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>84</xmin>
+      <ymin>46</ymin>
+      <xmax>88</xmax>
+      <ymax>53</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>213</xmin>
+      <ymin>63</ymin>
+      <xmax>216</xmax>
+      <ymax>67</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>211</ymin>
+      <xmax>124</xmax>
+      <ymax>213</ymax>
+    </bndbox>
+  </object>
+</annotation>

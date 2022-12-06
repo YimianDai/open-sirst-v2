@@ -1,0 +1,22 @@
+<annotation>
+    <folder>targets</folder>
+    <filename>foo-00112.png</filename>
+    <size>
+        <width>1280</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Target</name>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+        <bndbox>
+            <xmin>421</xmin>
+            <ymin>688</ymin>
+            <xmax>432</xmax>
+            <ymax>699</ymax>
+        </bndbox>
+    </object>
+</annotation>

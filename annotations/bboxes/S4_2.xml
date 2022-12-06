@@ -1,0 +1,16 @@
+<annotation>
+    <folder>backgrounds</folder>
+    <filename>S4_2.png</filename>
+    <size>
+        <width>640</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Target</name>
+        <difficult>0</difficult>
+        <pixels>
+            <id>0</id>
+        </pixels>
+    </object>
+</annotation>

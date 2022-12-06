@@ -1,0 +1,26 @@
+<annotation>
+  <filename>S20210527_S4_135</filename>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>338</xmin>
+      <ymin>102</ymin>
+      <xmax>344</xmax>
+      <ymax>107</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Target</name>
+    <bndbox>
+      <xmin>309</xmin>
+      <ymin>257</ymin>
+      <xmax>318</xmax>
+      <ymax>262</ymax>
+    </bndbox>
+  </object>
+</annotation>
