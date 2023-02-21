@@ -24,6 +24,14 @@ Annotation formats available:
 Please cite our paper in your publications if our work helps your research. BibTeX reference is as follows.
 
 ```
+@article{TGRS23OSCAR,
+  author    = {Yimian Dai and Xiang Li and Fei Zhou and Yulei Qian and Yaohong Chen and and Jian Yang,
+  title   = {{One-Stage Cascade Refinement Networks for Infrared Small Target Detection}},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  pages   = {1--17},
+  year    = {2023},
+}
+
 @inproceedings{dai21acm,
   title   =  {Asymmetric Contextual Modulation for Infrared Small Target Detection},
   author  =  {Yimian Dai and Yiquan Wu and Fei Zhou and Kobus Barnard},
